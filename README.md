@@ -3,7 +3,7 @@
 <img align="right"  width="300" src="https://user-images.githubusercontent.com/98548733/181935961-30033d69-5916-494b-8d0c-139db151c1ac.gif">
 
 
-- 🌱 I`m currently studying **Unity, UNIGINE, C#, C++**
+- 🌱 I`m currently studying **Unity, UNIGINE, C#, C++, Python**
 
 - 📫 How to reach me: [Telegram](https://t.me/strayder_n7)
 
